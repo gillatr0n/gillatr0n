@@ -1,16 +1,44 @@
-## Hi there 👋
 
-<!--
-**gillatr0n/gillatr0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Gil 👋
 
-Here are some ideas to get you started:
+### QA Engineer | Mobile Testing & Automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work with mobile applications, focusing on manual testing,
+test automation, and finding ways to improve software quality.
+
+Outside of QA, I enjoy building personal projects,
+exploring new technologies, and learning by doing.
+
+---
+
+### 🛠️ Tech & Tools
+
+**Testing & Automation**
+- Python, pytest, Appium
+- Android Studio, Xcode
+- Jenkins, Jira, Git
+- Learning Playwright
+
+**Web Development**
+- HTML, CSS, JavaScript
+
+---
+
+### 🎲 Featured Project
+
+**[D&D Basics](https://github.com/gillatr0n/basics-web)**
+
+A beginner-friendly introduction to Dungeons & Dragons.
+
+Currently working on turning it into an interactive
+adventure hub with one-shots, premade characters,
+and useful resources for new players.
+
+---
+
+### 🚀 Currently Working On
+
+- Improving my mobile QA automation skills
+- Building and expanding D&D Basics
+- Learning more about modern web development
+- Creating useful tools and personal projects
